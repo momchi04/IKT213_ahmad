@@ -19,6 +19,6 @@ IKT213_ahmad/
     - iris-1_hsv.jpg
     - iris-1_hue_shifted.jpg
     - iris-1_smoothed.jpg
-    - iris-1_rotate.jpg
+    - iris-1_180_degrees.jpg
 - .gitignore
 - README.md
