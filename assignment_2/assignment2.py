@@ -62,7 +62,7 @@ def rotation(image, rotation_angle):
         print("Rotated image 90 degrees, but not saving it, only saving 180 degree rotation")
     if rotation_angle == 180:
         image_rotate = cv2.rotate(image, cv2.ROTATE_180)
-        cv2.imwrite("solutions/iris-1_rotate.jpg", image_rotate)
+        cv2.imwrite("solutions/iris-1_180_degrees.jpg", image_rotate)
     return image_rotate
 
 
