@@ -38,6 +38,16 @@ IKT213\_ahmad/
     * resize\_up.jpg
     * sobel\_edge.jpg
     * temp\_match.jpg
+* assignment\_4/
+
+  * assignment4.py
+  * align_this.jpg
+  * reference_img.png
+  * solutions/
+
+    * aligned.jpg
+    * harris.jpg
+    * matches.jpg
 * .gitignore
 * README.md
 
