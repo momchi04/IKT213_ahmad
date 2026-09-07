@@ -48,6 +48,7 @@ IKT213\_ahmad/
     * aligned.jpg
     * harris.jpg
     * matches.jpg
+    * assignment_4.pdf
 * .gitignore
 * README.md
 
